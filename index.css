@@ -12,10 +12,18 @@ header {
 body {
 	background-color: beige;
 	font-family: 'Roboto Mono';
+
 }
 
 h1 {
 	text-align: center;
+	
+}
+
+#para1 {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 25px;
 	
 }
 
