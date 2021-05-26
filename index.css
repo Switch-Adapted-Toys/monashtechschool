@@ -70,3 +70,15 @@ h1 {
 
 	transition: 0.25s;
 }
+
+.active {
+	background-color:rgb(222, 168, 33);
+	/* font-weight: bold; */
+	color: white;
+	border-radius: 5px;
+	/* font-size:16px; */
+	text-decoration: none;
+
+	transform: scale(1.1);
+
+}
