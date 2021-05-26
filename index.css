@@ -6,7 +6,7 @@
 
 header {
 	padding: 1.5rem;
-	background-color: #a8a8a8;
+	background-color: beige;
 }
 
 body {
@@ -37,7 +37,7 @@ h1 {
 	padding:10px;
 	width: 100%;
 
-	background-color: #a8a8a8;
+	background-color: #cecece;
 }
 
 .nav {
@@ -50,7 +50,7 @@ h1 {
 	color:white;
 	font-size:15px;
 	text-align: center;
-	background-color:rgb(1, 1, 77);
+	background-color:#cecece;
 	text-decoration: none;
 	border-radius: 0px;
 
@@ -65,11 +65,10 @@ h1 {
 	/* font-size:16px; */
 	text-decoration: none;
 
-	transform: scale(1.1);
+	transform: scale(1.5);
 
 	transition: 0.25s;
 
-	padding-bottom: 15px;
 }
 
 .active {
@@ -80,8 +79,7 @@ h1 {
 	/* font-size:16px; */
 	text-decoration: none;
 
-	transform: scale(1.1);
+	transform: scale(1.5);
 
-	padding-bottom: 15px;
 
 }
